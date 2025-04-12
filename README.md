@@ -1,5 +1,5 @@
 
-# 🗂️ Document Mapper Pro v5.0
+# 🗂️ Document Mapper Pro v2.0
 
 **Document Mapper Pro** es una potente aplicación de escritorio para Windows desarrollada en Python, que permite visualizar, analizar y exportar la estructura de directorios y archivos de cualquier carpeta de tu sistema, con una interfaz moderna y profesional.
 
@@ -83,6 +83,6 @@ Este proyecto está licenciado bajo MIT. Puedes usarlo, modificarlo y compartirl
 
 ## ❤️ Agradecimientos
 
-Gracias por utilizar esta herramienta. ¡Contribuciones, estrellas y sugerencias son bienvenidas en el [repositorio oficial](https://github.com/Jose985537)!
+Gracias por utilizar esta herramienta. ¡Contribuciones, estrellas y sugerencias son bienvenidas en el [repositorio oficial](https://github.com/Jose985537) !
 
 
