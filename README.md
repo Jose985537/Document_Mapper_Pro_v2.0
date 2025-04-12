@@ -12,7 +12,6 @@
 - ✅ Exportación de estructura en formato `.txt` con diseño estilo árbol.
 - ✅ Interfaz visual profesional basada en paleta corporativa (azul institucional, blanco, gris, naranja de alerta).
 - ✅ Botón de ayuda integrado con nombre del autor y guía de uso.
-- ✅ Soporte completo para iconos `.ico` y `.png` como representación del software.
 
 ---
 
