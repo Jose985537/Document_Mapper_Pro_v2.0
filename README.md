@@ -1,7 +1,7 @@
 
 # 🗂️ Folder Mapper Pro v2.0
 
-**Document Mapper Pro** es una potente aplicación de escritorio para Windows desarrollada en Python, que permite visualizar, analizar y exportar la estructura de directorios y archivos de cualquier carpeta de tu sistema, con una interfaz moderna y profesional.
+**Folder  Mapper Pro** es una potente aplicación de escritorio para Windows desarrollada en Python, que permite visualizar, analizar y exportar la estructura de directorios y archivos de cualquier carpeta de tu sistema, con una interfaz moderna y profesional.
 
 
 ## 📌 Funcionalidades Principales
